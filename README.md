@@ -1,4 +1,4 @@
-31/03/2019
+March 2019
 
 # Sort-and-Insert
 Sorting and inserting in doubly linked list of strings in C.
